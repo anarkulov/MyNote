@@ -1,2 +1,2 @@
 # MyNote
-Simple note app
+Simple note app using Jatpack Compose
